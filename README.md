@@ -106,3 +106,4 @@ Privacy-first design — local embeddings, transcript processing
 3.  Click the extension's icon in your Chrome toolbar.
 4.  Click the **"Start Q&A"** button to process the video.
 5.  Once processed, ask any question about the video in the chat box.
+
