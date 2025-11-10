@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Q&A",
+  "version": "1.0",
+  "description": "Ask questions about any YouTube video.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "128": "icon128.png"
+  },
+  "host_permissions": [
+    "http://127.0.0.1:8000/*"
+  ]
+}
